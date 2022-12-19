@@ -1252,7 +1252,8 @@ img.rounded {
 		width: 30px;
 		text-align: center;
 		text-decoration: none;
-		margin: 5px 2px;
+		margin: 5px 15px;
+  		margin-bottom: 2rem;
   		border-radius: 50% 50%;
 		box-sizing: unset;
 		}
