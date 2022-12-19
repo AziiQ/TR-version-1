@@ -1253,6 +1253,7 @@ img.rounded {
 		text-decoration: none;
 		margin: 5px 2px;
   		border-radius: 50% 50%;
+		box-sizing: unset;
 		}
 
 		.fa:hover {
